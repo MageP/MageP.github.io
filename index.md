@@ -14,4 +14,4 @@ This series will be go through how to create a mod from start to finish for Mine
 
 ### Portal
 
-[Minecraft 1.15.2 Portal](https://magep.github.io/1.15.2/)
+ - [Minecraft 1.15.2 Portal](https://magep.github.io/1.15.2/)
