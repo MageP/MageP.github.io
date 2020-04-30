@@ -6,4 +6,9 @@ This page is the portal to access all of the tutorials for 1.15.2 mod developmen
 
  - [Pre-requisites](url)
  - [File Structure](url)
+ - [Config setup](url)
  
+### Getting started with programming
+
+- [Setting up your IDE (Integrated Development Environment)]()
+- [Main mod class]()
