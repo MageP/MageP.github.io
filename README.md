@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Mage's Modding Guide for Minecraft!
 
-You can use the [editor on GitHub](https://github.com/MageP/MageP.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website will be used to host my tutorial series for modding!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## 1.15.2 Guides
+
+This series will be go through how to create a mod from start to finish for Minecraft 1.15.2!
+
+### Before you start
+
+1. Download Java 8 Development Kit for your respective operating system! [Link](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ### Markdown
 
