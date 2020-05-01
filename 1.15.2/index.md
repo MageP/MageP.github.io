@@ -4,7 +4,7 @@ This page is the portal to access all of the tutorials for 1.15.2 mod developmen
 
 ### Initial Project Setup
 
- - [Pre-requisites](url)
+ - [Pre-requisites](https://magep.github.io/1.15.2/prerequisites)
  - [File Structure](url)
  - [Config setup](url)
  
