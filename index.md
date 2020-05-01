@@ -1,4 +1,4 @@
-## Welcome to Mage's Modding Guide for Minecraft!
+# Welcome to Mage's Modding Guide for Minecraft!
 
 This website will be used to host my tutorial series for modding!
 
